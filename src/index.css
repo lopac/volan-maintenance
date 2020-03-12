@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+		"Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+		"Helvetica Neue", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background: rgb(53, 53, 53) !important;
+	font-family: "Fira Code", monospace;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+.l-plate {
+	background: cornflowerblue;
+	border-radius: 2px;
+	color: white;
+	font-family: "Fira Sans", sans-serif;
+	letter-spacing: 1px;
+	padding: 1px 3px;
+	margin-right: 4px;
+}

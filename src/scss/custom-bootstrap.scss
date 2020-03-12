@@ -1,0 +1,39 @@
+@import url(https://use.fontawesome.com/releases/v5.0.10/css/all.css);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Fira+Code);
+
+$headings-font-family: "Fira Code";
+$font-family-base: "Fira Code";
+
+$enable-grid-classes: false;
+$primary: #0019ff;
+$secondary: #20aaea;
+$success: #79f2c0;
+$danger: #ff291d;
+$info: #512bd4;
+$warning: #ffc107;
+$light: #f8f9fa;
+$dark: #444;
+$enable-gradients: true;
+$spacer: 1rem;
+$btn-border-radius: 0.25rem;
+$border-radius: 0.25rem;
+
+$theme-colors: (
+	"red": #900
+);
+
+/*! Import Bootstrap 4 variables */
+// @import "~bootstrap/scss/functions";
+// @import "~bootstrap/scss/variables";
+// $link-hover-color:darken($link-color, 15%);
+
+@import "~bootstrap/scss/bootstrap.scss";
+
+.container-root {
+	margin-top: 50px;
+}
+
+.navbar {
+	border-bottom: 0.09em solid #eee;
+}
