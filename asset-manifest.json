@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/volan-maintenance/static/css/main.4f01667f.chunk.css",
+    "main.js": "/volan-maintenance/static/js/main.d2c2ea11.chunk.js",
+    "main.js.map": "/volan-maintenance/static/js/main.d2c2ea11.chunk.js.map",
+    "runtime-main.js": "/volan-maintenance/static/js/runtime-main.18163d63.js",
+    "runtime-main.js.map": "/volan-maintenance/static/js/runtime-main.18163d63.js.map",
+    "static/css/2.64a99b10.chunk.css": "/volan-maintenance/static/css/2.64a99b10.chunk.css",
+    "static/js/2.7d59599f.chunk.js": "/volan-maintenance/static/js/2.7d59599f.chunk.js",
+    "static/js/2.7d59599f.chunk.js.map": "/volan-maintenance/static/js/2.7d59599f.chunk.js.map",
+    "index.html": "/volan-maintenance/index.html",
+    "precache-manifest.d58c20bea865060ee8861bb8cab4fbab.js": "/volan-maintenance/precache-manifest.d58c20bea865060ee8861bb8cab4fbab.js",
+    "service-worker.js": "/volan-maintenance/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/volan-maintenance/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.4f01667f.chunk.css.map": "/volan-maintenance/static/css/main.4f01667f.chunk.css.map",
+    "static/js/2.7d59599f.chunk.js.LICENSE": "/volan-maintenance/static/js/2.7d59599f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18163d63.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.7d59599f.chunk.js",
+    "static/css/main.4f01667f.chunk.css",
+    "static/js/main.d2c2ea11.chunk.js"
+  ]
+}
